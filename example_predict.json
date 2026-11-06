@@ -1,0 +1,29 @@
+{
+  "features": {
+    "recency": 30.0,
+    "frequency": 21.0,
+    "monetary": 2.2377796173095703,
+    "avg_basket_value": 0.10656093060970306,
+    "avg_basket_size": 3.380952380952381,
+    "tenure": 557.0,
+    "avg_days_between": 26.35,
+    "online_share": 0.9047619047619048,
+    "orders_last_30d": 0.0,
+    "spend_last_30d": 0.0,
+    "orders_last_90d": 4.0,
+    "spend_last_90d": 0.4725593328475952,
+    "n_products": 57.0,
+    "n_types": 23.0,
+    "avg_price": 0.03201449435690175,
+    "share_ladieswear": 0.676056338028169,
+    "share_baby_children": 0.056338028169014086,
+    "share_menswear": 0.0,
+    "share_sport": 0.014084507042253521,
+    "share_divided": 0.2535211267605634,
+    "age": 25.0,
+    "FN": 0.0,
+    "Active": 0.0,
+    "club_member_status": 0.0,
+    "fashion_news_frequency": 1.0
+  }
+}
